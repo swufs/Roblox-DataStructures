@@ -51,3 +51,4 @@ function Hashtable:printTable()
 end
 
 return Hashtable
+-- nigga
